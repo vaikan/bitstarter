@@ -3,7 +3,11 @@
 .env
 
 # npm packages
+<<<<<<< HEAD
 #node_modules
+=======
+# node_modules
+>>>>>>> develop
 
 # Mac
 .DS_Store
